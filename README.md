@@ -9,6 +9,7 @@
     - Discord, can be installed here: https://discord.com/
 
 - "How to run" instructions:
+
     - Windows
 1. clone or download this repository onto your desired location.
 2. open your "Command Prompt" window.
@@ -21,6 +22,7 @@
    from roblox studio and your command prompt. (You may also go to localhost:52337 and watch as 
    it sends a blank message to your discord game activity, to reset this just use ctrl+c and then 
    run it again.)
+
     - MacOS
 1. clone or download this repository onto your wanted location, I would use downloads.
 2. open your "Terminal" window.
@@ -31,6 +33,7 @@
 7. Install this plugin "https://www.roblox.com/library/6673560581/Roblox-Studio-RPC-Ver-1-0"
 8. Once you install it, allow it to access "localhost:52337" this will be used for communication
    from roblox studio and your command prompt.
+
     - Linux
 1. Use the documentation above for windows and mac to do the same for linux, it uses all the same 
    steps anyway.
