@@ -14,7 +14,7 @@ function setActivity(details, state) {
 		if (iconEnabled) {
 			let iconKey = state.replace(/[^a-zA-Z0-9 ]/g, "").replace(/ /g, "_").toLowerCase();
 			activity.largeImageKey = iconKey;
-			activity.largeImageText = 'made by nate';
+			activity.largeImageText = ' ';
 			activity.smallImageKey = 'rblxicon';
 		}
 		else activity.largeImageKey = 'rblxicon';
