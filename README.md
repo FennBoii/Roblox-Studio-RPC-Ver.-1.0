@@ -1,4 +1,4 @@
-- Roblox-Studio-RPC-Ver.-1.0
+-Roblox-Studio-RPC-Ver.-1.0
 
     - This plugin works on all devices that use node.js
 
@@ -6,15 +6,15 @@
       linux but it soley depends if you can get roblox studio on linux
       and get the plugin installed.
       
-- The Main Requirements
+-The Main Requirements
 
     - Node.js, can be installed here: https://nodejs.org/
 
     - Discord, can be installed here: https://discord.com/
 
-- "How to run" instructions:
+-"How to run" instructions:
 
-      - Windows
+    - Windows
 
 I. clone or download this repository onto your desired location.
 
@@ -58,6 +58,6 @@ VIII. Once you install it, allow it to access "localhost:52337" this will be use
 I. Use the documentation above for windows and mac to do the same for linux, it uses all the same 
    steps anyway.
 
-- Note: 
+-Note: 
     - if you encoutner any errors, message me on discord "NateFox#2021" and i'll try my best
       to fix your error. You may also put the error into the issues tab on github (recomended).
