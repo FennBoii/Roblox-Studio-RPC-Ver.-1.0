@@ -14,7 +14,7 @@
 
 - "How to run" instructions:
 
-    - Windows
+      - Windows
 
 I. clone or download this repository onto your desired location.
 
@@ -35,7 +35,7 @@ VIII. Once you install it, allow it to access "localhost:52337" this will be use
    it sends a blank message to your discord game activity, to reset this just use ctrl+c and then 
    run it again.)
 
-    - MacOS
+      - MacOS
 
 I. clone or download this repository onto your wanted location, I would use downloads.
 
@@ -54,7 +54,7 @@ VII. Install this plugin "https://www.roblox.com/library/6673560581/Roblox-Studi
 VIII. Once you install it, allow it to access "localhost:52337" this will be used for communication
    from roblox studio and your command prompt.
 
-    - Linux
+      - Linux
 I. Use the documentation above for windows and mac to do the same for linux, it uses all the same 
    steps anyway.
 
