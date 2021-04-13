@@ -14,7 +14,7 @@
 
 -"How to run" instructions:
 
-    - Windows
+      - Windows
 
 I. clone or download this repository onto your desired location.
 
