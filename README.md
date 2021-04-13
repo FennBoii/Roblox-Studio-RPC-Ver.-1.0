@@ -59,6 +59,7 @@ I. Use the documentation above for windows and mac to do the same for linux, it 
    steps anyway.
 
 -Note: 
+    
     - if you encoutner any errors, message me on discord "NateFox#2021" and i'll try my best
       to fix your error. You may also put the error into the issues tab on github (recomended).
     - Your place of creation or testing world must be published on roblox for 'local place' to be replaced with your 'world name'.
