@@ -11,31 +11,31 @@
 - "How to run" instructions:
 
     - Windows
-1. clone or download this repository onto your desired location.
-2. open your "Command Prompt" window.
-3. type "cd" and drag the folder into the window once you unzipped it and press enter.
-4. to install the nessisary dependencies, run "npm install discord-rpc".
-5. to start the activity, use the "node RobloxStudioRPC.js" command.
-6. Open Roblox Studio.
-7. Install this plugin "https://www.roblox.com/library/6673560581/Roblox-Studio-RPC-Ver-1-0"
-8. Once you install it, allow it to access "localhost:52337" this will be used for communication
+I. clone or download this repository onto your desired location.
+II. open your "Command Prompt" window.
+III. type "cd" and drag the folder into the window once you unzipped it and press enter.
+IV. to install the nessisary dependencies, run "npm install discord-rpc".
+V. to start the activity, use the "node RobloxStudioRPC.js" command.
+VI. Open Roblox Studio.
+VII. Install this plugin "https://www.roblox.com/library/6673560581/Roblox-Studio-RPC-Ver-1-0"
+VIII. Once you install it, allow it to access "localhost:52337" this will be used for communication
    from roblox studio and your command prompt. (You may also go to localhost:52337 and watch as 
    it sends a blank message to your discord game activity, to reset this just use ctrl+c and then 
    run it again.)
 
     - MacOS
-1. clone or download this repository onto your wanted location, I would use downloads.
-2. open your "Terminal" window.
-3. type "cd" and drag the folder into the window once you unzipped it and press enter.
-4. to install the nessisary dependencies, run "npm install discord-rpc".
-5. to start the activity, use the "node RobloxStudioRPC.js" command.
-6. Open Roblox Studio.
-7. Install this plugin "https://www.roblox.com/library/6673560581/Roblox-Studio-RPC-Ver-1-0"
-8. Once you install it, allow it to access "localhost:52337" this will be used for communication
+I. clone or download this repository onto your wanted location, I would use downloads.
+II. open your "Terminal" window.
+III. type "cd" and drag the folder into the window once you unzipped it and press enter.
+IV. to install the nessisary dependencies, run "npm install discord-rpc".
+V. to start the activity, use the "node RobloxStudioRPC.js" command.
+VI. Open Roblox Studio.
+VII. Install this plugin "https://www.roblox.com/library/6673560581/Roblox-Studio-RPC-Ver-1-0"
+VIII. Once you install it, allow it to access "localhost:52337" this will be used for communication
    from roblox studio and your command prompt.
 
     - Linux
-1. Use the documentation above for windows and mac to do the same for linux, it uses all the same 
+I. Use the documentation above for windows and mac to do the same for linux, it uses all the same 
    steps anyway.
 
 - Note: 
