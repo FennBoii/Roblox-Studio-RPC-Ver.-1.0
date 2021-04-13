@@ -31,7 +31,7 @@ VI. Open Roblox Studio.
 VII. Install this plugin "https://www.roblox.com/library/6673560581/Roblox-Studio-RPC-Ver-1-0"
 
 VIII. Once you install it, allow it to access "localhost:52337" this will be used for communication
-   from roblox studio and your command prompt. (You may also go to localhost:52337 and watch as 
+   from roblox studio and your discord activity. (You may also go to localhost:52337 and watch as 
    it sends a blank message to your discord game activity, to reset this just use ctrl+c and then 
    run it again.)
 
@@ -52,7 +52,7 @@ VI. Open Roblox Studio.
 VII. Install this plugin "https://www.roblox.com/library/6673560581/Roblox-Studio-RPC-Ver-1-0"
 
 VIII. Once you install it, allow it to access "localhost:52337" this will be used for communication
-   from roblox studio and your command prompt.
+   from roblox studio and your discord activity.
 
       - Linux
 I. Use the documentation above for windows and mac to do the same for linux, it uses all the same 
