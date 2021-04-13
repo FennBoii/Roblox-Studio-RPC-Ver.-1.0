@@ -1,6 +1,6 @@
 -Roblox-Studio-RPC-Ver.-1.0
 
-    - This plugin works on all devices that use node.js
+    - This plugin works on all devices that use node.js and have roblox studio installed.
 
     - These include, MacOS and WindowsOS. This can potentially work on
       linux but it soley depends if you can get roblox studio on linux
